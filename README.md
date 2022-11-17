@@ -7,7 +7,7 @@ Hi there, I'm EKANSH 👋
 
 <h2 align="center">
 I'm a Student of CSE at BBDEC LUCKNOW
-</h2> 
+<h2 align="center">
 
 I want to learn the entire process of developing creative websites. I want to become the best CODER of all the languages...
 

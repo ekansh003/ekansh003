@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118448997/202496887-bed8b1c5-73ce-4e61-832c-f7f1079c78ab.jpeg" alt="my banner"></a>
+  <a href="https://www.instagram.com/_.ansh._.25._/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/118448997/202496887-bed8b1c5-73ce-4e61-832c-f7f1079c78ab.jpeg" alt="my banner"></a>
 </p>
   <h3 align="center">
 Hi there, I'm EKANSH 👋

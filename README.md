@@ -7,7 +7,7 @@ Hi there, I'm EKANSH 👋
 I'm a Student of CSE at BBDEC LUCKNOW
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I want to learn the entire process of developing creative websites. I want to become the best CODER of all the languages...
 
 ### 🤝 Connect with me:
 

@@ -20,20 +20,19 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-## 🔭 I'm currently working on
+## 🔭 I'm Currently Working On...
 
-- My old projects
+- My Studies
 - Restaurant Recommendation App (React-Native)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
 - My next blog
 - My CSS skill
 
-## 🌱 I'm currently learning
+## 🌱 I'm Currently Learning...
 
-- 📱 React Native
-- Firebase
-- React Context API
-- Styled Components  
+- C-Language
+- Python
+- Java  
 
 ## 💼 Technical Skills
 
